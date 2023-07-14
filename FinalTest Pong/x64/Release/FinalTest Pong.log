@@ -1,0 +1,39 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  FinalTest Pong.cpp
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(76,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(77,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(93,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(94,29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(97,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(98,29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(129,23): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(130,24): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(131,22): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(132,23): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(219,29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(221,31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(225,29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(227,31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(268,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(269,76): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(276,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(277,80): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(278,80): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(291,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(292,80): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(293,80): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(294,77): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(295,81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(307,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(308,80): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(309,80): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(318,77): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(319,81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(506,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(507,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Visual Studio项目\FinalTest Pong\FinalTest Pong\FinalTest Pong.cpp(551,23): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  FinalTest Pong.vcxproj -> D:\Pong\FinalTest Pong.exe
